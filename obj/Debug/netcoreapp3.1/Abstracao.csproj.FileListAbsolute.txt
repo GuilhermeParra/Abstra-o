@@ -1,0 +1,13 @@
+C:\Users\parra\OneDrive\Documentos\Senai\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.exe
+C:\Users\parra\OneDrive\Documentos\Senai\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.deps.json
+C:\Users\parra\OneDrive\Documentos\Senai\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.runtimeconfig.json
+C:\Users\parra\OneDrive\Documentos\Senai\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.runtimeconfig.dev.json
+C:\Users\parra\OneDrive\Documentos\Senai\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.dll
+C:\Users\parra\OneDrive\Documentos\Senai\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.csprojAssemblyReference.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.AssemblyInfoInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.AssemblyInfo.cs
+C:\Users\parra\OneDrive\Documentos\Senai\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.dll
+C:\Users\parra\OneDrive\Documentos\Senai\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.genruntimeconfig.cache
